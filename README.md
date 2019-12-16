@@ -1,6 +1,6 @@
 # axios
 
-> 说明：此为一份axios源码，上有做详细的代码说明，供源码阅读辅助使用！
+> 说明：此为一份axios源码，上有做详细的代码说明，供源码阅读辅助使用！(版本：0.19.0-beta.1)
 
 [![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.org/package/axios)
 [![build status](https://img.shields.io/travis/axios/axios.svg?style=flat-square)](https://travis-ci.org/axios/axios)
